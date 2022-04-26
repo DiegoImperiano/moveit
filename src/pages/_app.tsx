@@ -1,10 +1,7 @@
-import Head from "next/head"
+import '../styles/global.css'
 function MyApp({ Component, pageProps }) {
   return (
-    <>
-    <Head> <link rel="stylesheet" href="../styles/global.css" /></Head>
-    <Component {...pageProps} />
-    </>
+    <Component {...pageProps} /> 
   )
 }
 

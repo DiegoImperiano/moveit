@@ -1,34 +1,49 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Move.it
 
-## Getting Started
+<p align="center">
+  <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias-utilizadas">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como rodar?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença-e-autores">Licença e autor</a>
+</p>
 
-First, run the development server:
+## 💬 Sobre
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Desenvolvido com base no evento da Rocketseat - NLW4: trilha React, o move.it é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador ter uma forma bacana de lembrar-se de fazer exercícios.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Algumas telas da versão de desktop
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<p align="center">
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+🛠️ Ainda em construção... 🛠️
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+</p>
 
-## Learn More
+## ✨ Tecnologias
 
-To learn more about Next.js, take a look at the following resources:
+- [React](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Como executar
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Clone o repositório
+- Instale as dependências com `yarn`
+- Inicie o servidor com `yarn dev`
 
-## Deploy on Vercel
+Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🔧 To do
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Algumas ideias para melhorar a aplicação:
+
+- Adicionar um tema dark.
+
+Sinta-se livre para sugerir novas melhorias e correções [criando uma issue](https://github.com/DiegoImperiano/moveit/issues/new) 😉.
+
+## 📝 Licença e autor
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/DiegoImperiano/moveit/blob/main/LICENSE) para mais detalhes.
+
+Desenvolvido por [Diego Imperiano](https://github.com/DiegoImperiano).
+
+[![Linkedin Badge](https://img.shields.io/badge/-Diego_Imperiano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoimperiano/)](https://www.linkedin.com/in/diegoimperiano/)

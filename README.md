@@ -18,11 +18,11 @@ Desenvolvido com base no evento da Rocketseat - NLW4: trilha React, o move.it é
 _Visão inicial:_
 <img src=".github/tela-inicial.png"/>
 
-_Modal:_
-<img src=".github/modal.png"/>
-
 _Timer zerado:_
 <img src=".github/timer-zerado.png"/>
+
+_Modal:_
+<img src=".github/modal.png"/>
 
 </p>
 

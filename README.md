@@ -53,7 +53,7 @@ Sinta-se livre para sugerir novas melhorias e correções [criando uma issue](ht
 
 ## 📝 Licença e autor
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/DiegoImperiano/moveit/blob/main/LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/DiegoImperiano/moveit/blob/master/LICENSE) para mais detalhes.
 
 Desenvolvido por [Diego Imperiano](https://github.com/DiegoImperiano).
 

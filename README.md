@@ -1,4 +1,6 @@
-# Move.it
+<p align="center">
+  <img alt="Letmeask" src=".github/logo-full.svg" width="160px">
+</p>
 
 <p align="center">
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -9,7 +11,9 @@
 
 ## 💬 Sobre
 
-Desenvolvido com base no evento da Rocketseat - NLW4: trilha React, o move.it é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador ter uma forma bacana de lembrar-se de fazer exercícios.
+Desenvolvido com base no evento da Rocketseat - NLW4: trilha React, o Moveit é um app que une a técnica de Pomodoro com a realização de exercícios para os olhos e o corpo para pessoas que passam muito tempo na frente do computador ter uma forma bacana de lembrar-se de fazer exercícios.
+
+Após dar início ao timer você terá 25min para estudar com foco, quando a contagem chegar a zero será disparado um alarme sonoro que irá notificá-lo de que é o momento de fazer uma pausa nos estudos para fazer um breve exercício escolhido de forma aleatória que será exibido na tela. Ao fim desse exercício você clica no botão de confirmação que te dará experiência para que você suba de nível como em um jogo de videogame.
 
 ### Algumas telas da versão de desktop
 
